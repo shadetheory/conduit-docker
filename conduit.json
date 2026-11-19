@@ -16,7 +16,7 @@
         "name": "Jordan Partridge",
         "email": "jordan@partridge.rocks"
     },
-    "homepage": "https://github.com/jordanpartridge/conduit-docker",
-    "repository": "https://github.com/jordanpartridge/conduit-docker",
+    "homepage": "https://github.com/shadetheory/conduit-docker",
+    "repository": "https://github.com/shadetheory/conduit-docker",
     "license": "MIT"
 }
